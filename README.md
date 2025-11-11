@@ -2,15 +2,6 @@
 
 This repository contains the Docker Compose configuration for running the development infrastructure required by dependent applications. It provides all necessary services (databases, caches, message brokers, etc.) in a single, easy-to-start environment.
 
-## Table of Contents
-
-- [Docker Compose Infrastructure](#docker-compose-infrastructure)
-  - [Table of Contents](#table-of-contents)
-  - [Services](#services)
-  - [Getting Started](#getting-started)
-
----
-
 ## Services
 
 The following services are defined in this repository:
